@@ -1,3 +1,18 @@
+###Binder结构
+
+http://hi.csdn.net/attachment/201102/27/0_1298798589YVao.gif
+
+binder_transaction_data
+
+binder_node binder实体在驱动中的表述
+
+
+
+
+
+
+###ServiceManager
+
 1.初始化serviceManager， ProcessState<br>
 
 framework\base\libs\binder\IServiceManager.cpp
